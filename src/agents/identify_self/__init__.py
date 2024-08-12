@@ -1,0 +1,1 @@
+from .identify_template import InSelfDetector, in_self_finder_template
